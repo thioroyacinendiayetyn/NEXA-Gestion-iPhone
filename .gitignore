@@ -1,0 +1,12 @@
+node_modules/
+dist/
+.env
+.env.*
+*.sqlite
+*.sqlite3
+.DS_Store
+ios/App/App/public/
+backup-before-iphone-migration-*/
+nexa-iphone-migration-*.sh
+src/*.backup
+src/*.backup_*
